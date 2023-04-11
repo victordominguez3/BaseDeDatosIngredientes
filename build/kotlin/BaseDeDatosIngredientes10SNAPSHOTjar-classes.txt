@@ -1,0 +1,1 @@
+C:\Users\vdgl1\IntelliJProjects\BaseDeDatosIngredientes\build\classes\kotlin\main\MainKt.class;C:\Users\vdgl1\IntelliJProjects\BaseDeDatosIngredientes\build\classes\kotlin\main\models\Ingrediente.class
